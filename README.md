@@ -1,3 +1,10 @@
+Frst of all credit to these guys obv this is insane. I forked this jawn so i can start ripping it apart for my malware analyser part of my learning hyperfixation before ASU, starting tmrw.
+
+
+
+
+
+
 # Hacking Tools Repository
 <img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/Assets/asset1.webp" width="1000" height="250" alt="awjunaid">
  
